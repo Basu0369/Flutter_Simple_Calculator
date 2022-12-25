@@ -176,5 +176,4 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
       ]),
     );
   }
-
 }
