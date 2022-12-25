@@ -1,6 +1,14 @@
 # Simple Calculator Flutter
 
-A new Flutter project.
+<table>
+  <tr>
+    <td>Calculator</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Basu0369/Flutter_Simple_Calculator/master/android/app/src/main/res/drawable/SimpleCalculator.png" width=270 height=400></td>
+    
+  </tr>
+ </table>
 
 ## Getting Started
 
